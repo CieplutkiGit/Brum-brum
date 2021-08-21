@@ -60,7 +60,7 @@ namespace UnityStandardAssets.Vehicles.Car
             else if (showResult == ShowResult.Skipped)
             {
                 // Do not reward the user for skipping the ad.
-                Debug.Log("Dziwka skipuje");
+                Debug.Log("skip");
             }
             else if (showResult == ShowResult.Failed)
             {
